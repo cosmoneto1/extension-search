@@ -1,6 +1,6 @@
-# Extenção de pesquisa
+# Extensão de pesquisa
 
-Descrição do projeto é uma extenção para pesquisa rapida por atalho bing.
+Descrição do projeto é uma extensão para pesquisa rapida por atalho bing.
 
 ### Tecnologias utilizadas no projeto;
 
